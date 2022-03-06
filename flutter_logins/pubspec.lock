@@ -74,6 +74,53 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_test_ui:
+    dependency: "direct main"
+    description:
+      name: flutter_test_ui
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.0"
+  flutter_web_plugins:
+    dependency: transitive
+    description: flutter
+    source: sdk
+    version: "0.0.0"
+  font_awesome_flutter:
+    dependency: transitive
+    description:
+      name: font_awesome_flutter
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "9.2.0"
+  hexcolor:
+    dependency: transitive
+    description:
+      name: hexcolor
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.6"
+  http:
+    dependency: "direct main"
+    description:
+      name: http
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.13.4"
+  http_parser:
+    dependency: transitive
+    description:
+      name: http_parser
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.0.0"
+  js:
+    dependency: transitive
+    description:
+      name: js
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.6.3"
   lints:
     dependency: transitive
     description:
@@ -81,6 +128,41 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
+  login01_module:
+    dependency: "direct main"
+    description:
+      path: "modules/login01_module"
+      relative: true
+    source: path
+    version: "0.0.1"
+  login02_module:
+    dependency: "direct main"
+    description:
+      path: "modules/login02_module"
+      relative: true
+    source: path
+    version: "0.0.1"
+  login03_module:
+    dependency: "direct main"
+    description:
+      path: "modules/login03_module"
+      relative: true
+    source: path
+    version: "0.0.1"
+  login04_module:
+    dependency: "direct main"
+    description:
+      path: "modules/login04_module"
+      relative: true
+    source: path
+    version: "0.0.1"
+  login05_module:
+    dependency: "direct main"
+    description:
+      path: "modules/login05_module"
+      relative: true
+    source: path
+    version: "0.0.1"
   matcher:
     dependency: transitive
     description:
@@ -102,6 +184,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  otp_text_field:
+    dependency: transitive
+    description:
+      name: otp_text_field
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.2"
   path:
     dependency: transitive
     description:
@@ -172,3 +261,4 @@ packages:
     version: "2.1.1"
 sdks:
   dart: ">=2.16.1 <3.0.0"
+  flutter: ">=2.5.0"

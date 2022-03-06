@@ -1,0 +1,50 @@
+/* Color Theme Swatches in Hex */
+.Northern-Lights-1-hex {
+  color: #164773;
+}
+.Northern-Lights-2-hex {
+  color: #0b2b40;
+}
+.Northern-Lights-3-hex {
+  color: #1e5959;
+}
+.Northern-Lights-4-hex {
+  color: #3b8c6e;
+}
+.Northern-Lights-5-hex {
+  color: #89d99d;
+}
+
+/* Color Theme Swatches in RGBA */
+.Northern-Lights-1-rgba {
+  color: rgba(22, 70, 114, 1);
+}
+.Northern-Lights-2-rgba {
+  color: rgba(10, 42, 63, 1);
+}
+.Northern-Lights-3-rgba {
+  color: rgba(29, 89, 89, 1);
+}
+.Northern-Lights-4-rgba {
+  color: rgba(59, 140, 110, 1);
+}
+.Northern-Lights-5-rgba {
+  color: rgba(137, 216, 156, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.Northern-Lights-1-hsla {
+  color: hsla(208, 67, 26, 1);
+}
+.Northern-Lights-2-hsla {
+  color: hsla(203, 70, 14, 1);
+}
+.Northern-Lights-3-hsla {
+  color: hsla(180, 49, 23, 1);
+}
+.Northern-Lights-4-hsla {
+  color: hsla(157, 40, 39, 1);
+}
+.Northern-Lights-5-hsla {
+  color: hsla(134, 51, 69, 1);
+}
